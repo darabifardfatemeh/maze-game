@@ -4,6 +4,12 @@ This is a maze game that I made with Java and JavaFX for my OOP course.
 The player must go from the start to the goal before the time is over.
 There are 3 levels and every level uses a different algorithm to build the maze.
 
+## Screenshots
+<img width="1973" height="1614" alt="1" src="https://github.com/user-attachments/assets/bad07868-4583-4283-8c67-4c053d648b05" />
+<img width="1969" height="1615" alt="3" src="https://github.com/user-attachments/assets/372b35ec-f548-4635-a90d-b496f8392c05" />
+<img width="1953" height="1608" alt="2" src="https://github.com/user-attachments/assets/45812bf2-1fc3-4fcf-a3c9-75113a544f8e" />
+
+
 ## How to play
 
 - Move with **W A S D** or the **arrow keys**.
